@@ -86,11 +86,9 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Ibrahim Suhail Alyousefi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Ibrahim Suhail Alyousefi](https://github.com/Cluab)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
